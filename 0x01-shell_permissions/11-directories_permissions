@@ -1,2 +1,2 @@
 #!/bin/bash
-chamod -R ugo+X
+chamod -R ugo+X *
